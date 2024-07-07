@@ -1,5 +1,5 @@
 public class MusicStyles {
-  void   playMusic() {
-
+ public void   playMusic() {
+    System.out.println("Playing music...");
   }
 }
